@@ -50,5 +50,46 @@ Explorações adicionais relevantes
 O objetivo é demonstrar como você organiza e comunica insights a partir dos dados.
 
 
-Arquivos
-Faça o download dos arquivos necessários para o desafio clicando no botão abaixo
+
+#Q1
+Antes de qualquer análise, modelagem ou tomada de decisão, é fundamental entender o que existe nos dados. O Sr. Almir quer uma resposta simples: “Posso confiar nesses dados para tomar decisões?”
+
+Sua missão é realizar uma análise exploratória inicial do dataset vendas_2023_2024.csv e responder perguntas básicas, porém críticas, sobre volume, distribuição e qualidade dos dados.
+
+Premissas obrigatórias
+Utilize apenas o dataset vendas_2023_2024.csv
+Não faça limpeza nem tratamento dos dados
+Apenas observe, agregue e descreva
+
+Tarefas: 
+Parte 1 — Visão geral do dataset
+Informe:
+Quantidade total de linhas
+Quantidade total de colunas
+Intervalo de datas analisado (data mínima e máxima)
+Parte 2 — Análise de valores numéricos
+Para a coluna "total", calcule:
+Valor mínimo
+Valor máximo
+Valor médio
+Parte 3 — Interpretação
+Responda de forma resumida:
+Com base na análise exploratória realizada, escreva um breve diagnóstico sobre a confiabilidade do dataset vendas_2023_2024.csv para análises futuras.
+Comente sobre:
+possíveis outliers em "total",
+qualidade dos dados (valores nulos ou inconsistentes),
+e se você considera que o dataset está pronto para análises ou se exigiria tratamento prévio.
+
+#Q2
+Gabriel percebeu que seus dados estão desorganizados e sem um padrão definido e isso pode tornar o trabalho de análise mais trabalhoso. Precisamos melhorar isso utilizando o Python.
+
+Sua missão é realizar uma normalização dos dados presentes no arquivo produtos_raw.csv.
+
+Premissas obrigatórias
+Utilize apenas o CSV produtos_raw.csv
+Utilize obrigatoriamente Python 3
+
+Tarefas: 
+Parte 1 — Padronize os nomes das categorias de produtos em: eletrônicos, propulsão e ancoragem.
+Parte 2 — Converta os valores para o tipo numérico.
+Parte 3 — Remova as duplicatas.
