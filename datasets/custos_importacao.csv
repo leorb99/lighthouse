@@ -1,0 +1,151 @@
+product_id,product_name,category,start_date,usd_price
+1,Transponder AIS Maré Magnum,eletrônicos,2016-08-10,10583.63
+2,Transponder Furuno Marlin,eletrônicos,2017-11-23,4325.09
+3,Radar Furuno Pulse Leviathan,eletrônicos,2016-04-12,2549.21
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,2016-03-04,909.55
+5,Piloto Automático Furuno Storm,eletrônicos,2016-02-10,6006.45
+6,Transponder AIS Vector,eletrônicos,2020-07-23,2288.92
+7,Radar AIS Zen,eletrônicos,2016-10-26,6253.41
+8,GPS AIS Zen,eletrônicos,2019-12-06,1193.04
+9,Transponder AIS Titan Pulse,eletrônicos,2018-12-26,10115.54
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,2018-05-29,8591.86
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,2016-02-18,9039.0
+12,GPS AIS Drift Flux Vox,eletrônicos,2016-02-03,689.26
+13,Radar Simrad Boost,eletrônicos,2017-03-22,2504.48
+14,Rádio Furuno Zen Swift,eletrônicos,2016-11-10,10819.71
+15,Radar Garmin Tidal Thrust,eletrônicos,2017-06-23,8369.26
+16,Sonda Garmin Axis,eletrônicos,2016-04-13,8470.76
+17,Rádio AIS Oceanic Pulse,eletrônicos,2016-06-23,4187.31
+18,Rádio Simrad Axis,eletrônicos,2016-02-15,6663.27
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,2016-03-17,4509.55
+20,Radar AIS Marlin,eletrônicos,2016-07-04,9494.81
+21,GPS AIS Nautic Thrust,eletrônicos,2016-02-19,2157.43
+22,Transponder Furuno Force Ion,eletrônicos,2019-02-20,10635.91
+23,Piloto Automático Furuno Torque Peak,eletrônicos,2016-09-16,3387.67
+24,GPS AIS Orca Marlin Velocity,eletrônicos,2018-05-30,6217.8
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,2018-10-01,3011.51
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,2017-06-14,5264.45
+27,GPS Garmin Vortex Maré Drift,eletrônicos,2016-07-08,5009.24
+28,Piloto Automático AIS Core,eletrônicos,2018-06-18,3798.53
+29,Rádio Simrad Orca,eletrônicos,2017-04-18,11795.79
+30,Transponder AIS Boost,eletrônicos,2018-05-15,8775.65
+31,Transponder Furuno Pulse Axis,eletrônicos,2016-01-15,2050.48
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,2016-01-08,3106.66
+33,Transponder Garmin Drift Vortex Marlin,eletrônicos,2018-09-20,1638.35
+34,Transponder AIS Helix Torque,eletrônicos,2016-12-02,1419.45
+35,Radar Furuno Swift,eletrônicos,2019-08-28,2648.55
+36,Radar Lowrance Aqua Pulse,eletrônicos,2016-07-20,6952.99
+37,GPS Lowrance Evo Storm Drift,eletrônicos,2016-06-13,1757.38
+38,Rádio AIS Force,eletrônicos,2018-01-16,8214.43
+39,GPS Furuno Vector,eletrônicos,2016-04-19,8339.76
+40,Sonda Furuno Maré Tidal,eletrônicos,2017-02-22,4602.52
+41,GPS Simrad Flow Pulse,eletrônicos,2017-12-06,3276.86
+42,Transponder Lowrance Axis,eletrônicos,2017-04-10,1908.37
+43,Sonda AIS Barracuda,eletrônicos,2018-02-06,10763.6
+44,GPS Simrad Zen Hydra Peak,eletrônicos,2017-03-24,3455.31
+45,GPS Furuno Current,eletrônicos,2016-05-17,2827.13
+46,Sonda AIS Magnum Boost,eletrônicos,2016-10-06,1542.77
+47,Rádio Simrad Tidal Aqua,eletrônicos,2016-01-04,1516.33
+48,GPS Furuno Magnum Drift,eletrônicos,2017-02-03,4717.9
+49,Sonda Furuno Swift,eletrônicos,2016-06-22,3915.41
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,2016-05-19,3132.48
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,2016-04-20,18074.48
+52,Motor Diesel Honda Zen Tidal Mako 26HP,propulsão,2018-11-19,3649.85
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,2018-02-14,16499.65
+54,Motor de Popa Yamaha Evo Dash 155HP,propulsão,2016-05-16,34695.49
+55,Motor Diesel Volvo Flow Oceanic 259HP,propulsão,2021-01-19,20776.21
+56,Motor Elétrico Torqeedo Velocity Swift 74HP,propulsão,2016-12-07,12685.17
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,2017-11-17,36236.52
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,2017-11-16,33176.21
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,2017-09-25,27754.61
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,2016-02-01,27202.05
+61,Motor Diesel Honda Prime 84HP,propulsão,2018-12-06,7152.72
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,2018-08-21,25640.75
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,2017-02-16,45881.74
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,2016-12-15,32966.4
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,2016-01-27,6319.75
+66,Motor de Popa Tohatsu Poseidon Helix Prime 135HP,propulsão,2018-10-04,3220.11
+67,Motor de Popa Yamaha Mako 108HP,propulsão,2017-05-12,27422.66
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,2016-05-02,19121.65
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,2016-08-16,14259.84
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,2018-10-11,9172.7
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,2018-01-24,40725.21
+72,Motor de Popa Volvo Hydro Dash 256HP,propulsão,2017-05-19,30319.01
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,2016-12-02,41323.15
+74,Motor de Popa Honda Torque 228HP,propulsão,2016-08-15,27334.86
+75,Motor Diesel Volvo Flow Leviathan Maré 187HP,propulsão,2016-05-23,9190.66
+76,Motor Diesel Honda Aero 205HP,propulsão,2016-02-18,36971.92
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,2016-06-07,12868.73
+78,Motor Elétrico Honda Mako Axis 131HP,propulsão,2016-12-22,36569.43
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,2016-02-12,16584.81
+80,Motor de Popa Volvo Maré 69HP,propulsão,2019-09-26,31166.06
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,2016-05-16,34870.68
+82,Motor Elétrico Volvo Nautic Vox 118HP,propulsão,2017-06-12,15656.17
+83,Motor Diesel Yanmar Dash Nitro 184HP,propulsão,2018-10-31,36265.87
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,2016-03-07,11515.83
+85,Motor de Popa Parsun Impulse 162HP,propulsão,2016-07-28,11785.51
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,2018-04-25,26694.96
+87,Motor Elétrico Volvo Boost 225HP,propulsão,2016-09-23,20740.76
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,2018-07-05,12335.14
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,2019-06-27,20363.92
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,2017-01-25,24968.38
+91,Motor Elétrico Tohatsu Zenith Oceanic 113HP,propulsão,2016-12-02,38934.89
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,2016-03-04,23897.07
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,2017-12-14,30149.74
+94,Motor de Popa Volvo Magnum 276HP,propulsão,2017-05-16,13180.3
+95,Motor Diesel Honda Leviathan 133HP,propulsão,2016-06-27,20575.35
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,2018-02-08,21605.84
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,2018-03-08,41626.19
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,2017-05-24,24326.74
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,2016-04-05,29327.86
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,2017-07-14,32797.24
+101,Cabo de Nylon Delta Vortex,ancoragem,2016-06-16,132.79
+102,Cabo de Nylon Bruce Nexus,ancoragem,2017-10-13,263.57
+103,Âncora Delta Swift,ancoragem,2020-02-07,415.41
+104,Cabo de Nylon Delta Zen Vortex Storm,ancoragem,2016-04-06,1010.54
+105,Cabo de Nylon Danforth Prime,ancoragem,2016-01-21,74.49
+106,Âncora Danforth Nitro Titan Vox,ancoragem,2017-04-18,1416.67
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,2016-03-04,407.02
+108,Boia de Arqueamento Bruce Titan,ancoragem,2019-04-03,870.56
+109,Cabo de Nylon Danforth Evo Aqua Mako,ancoragem,2017-01-12,196.71
+110,Corrente Bruce Current,ancoragem,2020-08-17,457.97
+111,Boia de Arqueamento Danforth Aero Dash,ancoragem,2017-06-13,1290.65
+112,Corrente Danforth Tidal,ancoragem,2018-08-24,533.92
+113,Âncora Delta Mako Ultra,ancoragem,2017-01-12,1388.39
+114,Boia de Arqueamento Danforth Tidal Zen Swift,ancoragem,2016-11-22,238.81
+115,Cabo de Nylon Delta Force Magnum Leviathan,ancoragem,2016-08-22,258.29
+116,Cabo de Nylon Delta Velocity Oceanic Abyss,ancoragem,2016-05-31,716.52
+117,Corrente Danforth Zen Abyss Axis,ancoragem,2016-04-19,1154.74
+118,Boia de Arqueamento Delta Force Vox,ancoragem,2017-07-10,1321.87
+119,Âncora Bruce Aqua,ancoragem,2016-05-19,904.47
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,2017-05-03,992.44
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,2016-03-29,1007.13
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,2016-04-06,359.92
+123,Cabo de Nylon Danforth Orca Aero,ancoragem,2017-10-25,857.62
+124,Corrente Delta Axis,ancoragem,2018-04-17,1107.66
+125,Cabo de Nylon Danforth Kinetic,ancoragem,2020-06-26,622.83
+126,Corrente Danforth Hydro,ancoragem,2018-02-05,827.56
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,2016-06-15,445.7
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,2018-10-04,1191.24
+129,Corrente Delta Boost,ancoragem,2016-05-10,939.48
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,2016-11-01,1293.13
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,2019-07-19,257.63
+132,Corrente Bruce Nautic Evo,ancoragem,2016-02-22,394.57
+133,Âncora Bruce Core Pulse,ancoragem,2016-03-28,519.96
+134,Âncora Delta Storm Vox,ancoragem,2017-10-20,1482.27
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,2016-09-30,506.69
+136,Cabo de Nylon Bruce Flux Hydro,ancoragem,2017-10-23,616.78
+137,Âncora Danforth Impulse,ancoragem,2016-12-08,995.67
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,2019-12-30,1037.95
+139,Boia de Arqueamento Danforth Torque,ancoragem,2016-10-11,443.47
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,2017-05-11,993.43
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,2016-03-11,1318.57
+142,Âncora Danforth Vector Evo,ancoragem,2017-07-04,250.09
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,2016-06-01,1228.25
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,2016-05-13,631.98
+145,Boia de Arqueamento Delta Nexus,ancoragem,2016-07-08,1319.66
+146,Corrente Delta Vox Ion,ancoragem,2016-05-03,139.54
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,2016-05-13,864.87
+148,Âncora Delta Force Barracuda Mako,ancoragem,2017-06-06,1458.52
+149,Cabo de Nylon Bruce Core,ancoragem,2016-02-19,287.41
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,2018-11-28,426.06
